@@ -21,7 +21,7 @@ Este é um porgrama que calcula o bônus de um usário com base no valor de seu 
 6. Após toda as inserçoões, o programa retornará o valor total do seu bônus.
 
 ## Observações
-- O valor onsante definido como 1000 pode ser ajustado de acordo com a necessidade do usuário.
+- O valor constante definido como 1000 pode ser ajustado de acordo com a necessidade do usuário.
 - O programa assume que o usuário fonrcerá valores numéricos válidos de salário e de multiplicador de bônus.
 
 Aprecie!
