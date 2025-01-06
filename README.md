@@ -25,5 +25,3 @@ Este é um porgrama que calcula o bônus de um usário com base no valor de seu 
 - O programa assume que o usuário fonrcerá valores numéricos válidos de salário e de multiplicador de bônus.
 
 Aprecie!
-     
-# aula_2_bootcamp
